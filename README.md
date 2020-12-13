@@ -1,5 +1,6 @@
 # Implementing AES
  * Implementing AES from [NIST](https://www.nist.gov/publications/advanced-encryption-standard-aes)
+ * compile with gcc and c99 standard
  * Only 128 bit variant is implemented
  * This goes without saying but I will still say it: **DO NOT USE ANY CODE IN THIS REPOSITORY FOR SECURITY PURPOSE**.
  * run "make" in this directory to compile the code. The main function will be run automatically.
